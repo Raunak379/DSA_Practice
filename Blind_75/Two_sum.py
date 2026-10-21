@@ -11,6 +11,9 @@ target = 10
 obj = Solution()
 print(obj.twoSum(nums, target))
 
+#time =  o(n*2)
+
+
 #optimal Solution 
 class Solution:
     def twoSum(self, nums: list[int], target: int):
@@ -26,3 +29,6 @@ nums = [3,6,8,4,6,4,2,9]
 target = 10
 obj = Solution()
 print(obj.twoSum(nums, target))
+
+#time c = o(n)
+#space c = o(n)
