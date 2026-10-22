@@ -14,7 +14,7 @@ print(obj.twoSum(nums, target))
 #time =  o(n*2)
 
 
-#optimal Solution 
+#optimal Solution :- solve throug hash_map, dict
 class Solution:
     def twoSum(self, nums: list[int], target: int):
         n = len(nums)
