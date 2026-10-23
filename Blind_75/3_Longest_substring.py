@@ -36,3 +36,6 @@ class Sloution:
 s = "abcdaba"
 obj = Sloution()
 print(obj.substring(s))
+
+# time = o(n)
+#space = o(n)
