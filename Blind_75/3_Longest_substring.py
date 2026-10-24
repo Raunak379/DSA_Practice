@@ -1,4 +1,4 @@
-#brute solution :-------- solve throug Set, Dict
+#brute force solution :-------- solve throug Set, Dict
 class Sloution:
     def substring(self, s:str):
         maxi = 0

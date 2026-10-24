@@ -1,4 +1,4 @@
-#brute solution
+#brute force solution
 class Solution:
     def twoSum(self, nums: list[int], target: int):
         n = len(nums)
