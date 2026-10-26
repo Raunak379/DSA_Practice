@@ -1,3 +1,4 @@
+#optimal solution
 class Solution:
     def countSubstrings(self, s: str):
         """ans = 0
@@ -33,3 +34,6 @@ class Solution:
 s = "aabcd"
 obj = Solution()
 print(obj.countSubstrings(s))
+
+#time = o(n*2)
+#space = o(n)
